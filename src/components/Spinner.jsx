@@ -4,8 +4,9 @@ import '../assets/css/Spinner.css'
 const Spinner = () => {
 
     return(
-        <div class="lds-hourglass">
-
+        <div className="lds-hourglass">
+            <div></div>
+            <div></div>
         </div>
     );
 }
