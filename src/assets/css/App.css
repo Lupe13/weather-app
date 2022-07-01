@@ -18,6 +18,7 @@ body{
 .card-title{
   position: absolute;
   padding: 20px;
+  color: blue;
 }
 
 .card-date{
@@ -25,6 +26,7 @@ body{
   padding: 20px;
   padding-left: 20px;
   margin-top: 60px;
+  color: blue;
 }
 
 .card-temp{
@@ -32,11 +34,13 @@ body{
   padding-left: 20px;
   margin-top: 260px;
   font-size: 50px;
+  color: blue;
 }
 
 .card-desc{
   position: absolute;
   padding-left: 10px;
   margin-top: 303px;
+  color: rgb(237, 106, 106);
 }
 

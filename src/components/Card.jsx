@@ -74,7 +74,7 @@ const Card = ({ loadingData, showData, weather, forecast }) => {
                   {weather.weather[0].description}
                 </p>
                 <img
-                  src="https://images.pexels.com/photos/12200727/pexels-photo-12200727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                  src="https://images.unsplash.com/photo-1530810725156-ee3f00caf460?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=927&q=80"
                   className="img-fluid rounded-start"
                   alt=".."
                 />
